@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class Java8DefaultMethods {

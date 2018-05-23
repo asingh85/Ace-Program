@@ -8,7 +8,7 @@ import java.util.function.Function;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class MethodReferenceExample {

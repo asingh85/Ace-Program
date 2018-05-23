@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class CollectionImprovements {

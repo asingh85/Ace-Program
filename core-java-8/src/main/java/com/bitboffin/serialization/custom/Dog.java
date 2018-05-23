@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * 
- * @author Gaurav Rai Mazra <a href="http://www.gauravbytes.com">Catch me</a>
+ * @author Amandeep Singh <a href="http://www.gauravbytes.com">Catch me</a>
  *
  */
 public class Dog implements Serializable {

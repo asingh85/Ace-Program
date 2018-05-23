@@ -2,7 +2,7 @@ package com.bitboffin.java8.defaultmethods;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public abstract class BinaryExpression implements Expression {

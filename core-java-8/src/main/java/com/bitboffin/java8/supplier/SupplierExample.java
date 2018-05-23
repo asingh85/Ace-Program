@@ -7,7 +7,7 @@ import com.bitboffin.java8.lambda.LambdaTest;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class SupplierExample {

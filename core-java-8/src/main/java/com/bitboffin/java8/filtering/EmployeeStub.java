@@ -9,7 +9,7 @@ import com.bitboffin.java8.filtering.Employee.Sex;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class EmployeeStub {

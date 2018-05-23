@@ -13,7 +13,7 @@ import com.bitboffin.java8.stream.StreamSamples.Person;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class ParallelStreamPerformanceTest {

@@ -2,7 +2,7 @@ package com.bitboffin.serialization.custom;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  * <a href="http://www.gauravbytes.com">Catch me</a>
  *
  */

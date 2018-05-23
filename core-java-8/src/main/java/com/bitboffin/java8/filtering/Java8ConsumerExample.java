@@ -8,7 +8,7 @@ import java.util.function.Consumer;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class Java8ConsumerExample {

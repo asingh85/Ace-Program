@@ -4,7 +4,7 @@ import java.util.concurrent.Callable;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class LambdaTest {

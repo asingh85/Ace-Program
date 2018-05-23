@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class StreamExceptionExample {

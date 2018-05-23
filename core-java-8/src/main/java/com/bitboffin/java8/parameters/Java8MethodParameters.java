@@ -5,7 +5,7 @@ import java.lang.reflect.Parameter;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class Java8MethodParameters {

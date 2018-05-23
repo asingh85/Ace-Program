@@ -4,7 +4,7 @@ import java.util.Optional;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class OptionalUsageExample {

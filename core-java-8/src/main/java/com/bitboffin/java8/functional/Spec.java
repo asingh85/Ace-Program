@@ -2,7 +2,7 @@ package com.bitboffin.java8.functional;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 @FunctionalInterface

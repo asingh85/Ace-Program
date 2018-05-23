@@ -2,7 +2,7 @@ package com.bitboffin.java8.types;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 public class TypeCheckingPlaybook {

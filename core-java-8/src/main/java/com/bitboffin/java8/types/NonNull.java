@@ -5,7 +5,7 @@ import java.lang.annotation.Target;
 
 /**
  * 
- * @author Gaurav Rai Mazra
+ * @author Amandeep Singh
  *
  */
 @Target(value = ElementType.TYPE_USE)
